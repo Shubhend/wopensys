@@ -1,0 +1,1 @@
+{"url":"https:\/\/lovetoreads.com","bingapi":"c7c54aac12134f90941f983ff08e0c9b","enable_bing":"on","enable_google":"on","email":"demo@gmail.com","google_json_file":"C:\\\\Users\\\\Shubhenud\\\\PhpstormProjects\\\\wordpress\\\\wp-content\\\\plugins\\\\wp-autoindex\\\\inc\/upload\/titanium-gantry-236611-014936a0a534 (1).json"}
